@@ -1,0 +1,10 @@
+.main{
+    background: #FF;
+    width: 730px;
+    overflow: hidden;
+    margin:0 auto;
+}
+
+.page-title{
+    text-align: center;
+}
